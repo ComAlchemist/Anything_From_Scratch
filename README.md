@@ -27,7 +27,11 @@ A small repo that we want to give some value to the community about implementing
 
 - [LeNet](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/AFS_Lenet)
 
-- AlexNet 
+- [AlexNet](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/Computer%20Vision/ConvolutionalNeuralNetworks/AFS_AlexNet) 
+
+- [ResNet](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/Computer%20Vision/ConvolutionalNeuralNetworks/AFS_ResNet)
+
+- [VGG](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/Computer%20Vision/ConvolutionalNeuralNetworks/AFS_VGG)
 
 ### 2. Data Augmentation
 
