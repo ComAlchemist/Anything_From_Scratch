@@ -54,6 +54,12 @@ A small repo that we want to give some value to the community about implementing
 
 ## Generative Model 
 
+### GAN 
+
+- [GAN](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/GenerativeModel/GAN/GAN)
+
+- [DCGAN](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/GenerativeModel/GAN/DCGAN)
+
 ## Recommendation System
 
 ## Audio 
