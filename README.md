@@ -9,6 +9,7 @@ A small repo that we want to give some value to the community about implementing
 - [NLP](#nlp)
 - [Generative Image Model](#generative-image-model)
 - [Audio](#audio)
+- [Pytorch Basics](#pytorch-basics)
 - [Other](#other)
 
 # Machine Learning
@@ -34,6 +35,11 @@ A small repo that we want to give some value to the community about implementing
 |---|---|---| ---|
 
 # Audio
+
+| Title | Source | Category/ Tag | Description |
+|---|---|---| ---|
+
+# Pytorch Basics
 
 | Title | Source | Category/ Tag | Description |
 |---|---|---| ---|
