@@ -2,66 +2,43 @@
 
 A small repo that we want to give some value to the community about implementing artificial intelligence algorithms, as well as training our ability to code and understand algorithms better.
 
-## Machine Learning 
+## Contents
 
-- [Linear Regression with Gradient Descent](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/AFS_LinearRegression)
+- [Machine Learning](#machine-learning)
+- [Computer Vision](#computer-vision)
+- [NLP](#nlp)
+- [Generative Image Model](#generative-image-model)
+- [Audio](#audio)
+- [Other](#other)
 
-- [Logistic Regression](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/AFS_LogisticRegression)
+# Machine Learning
 
-- [KNN](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/AFS_KNN)
+| Title | Source | Category/ Tag | Description |
+|---|---|---| ---|
+| Linear Regression | LinearRegression | Machine Learning, Supervised learning, Predict |
+| Logistic Regresssion | Logistic Regresssion | Machine Learning, Supervised learning, Classification|
 
-- [KMeans](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/AFS_KMeans) 
+# Computer Vision
 
-- [Decision Trees](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/AFS_DecisionTres)
+| Title | Source | Category/ Tag | Description |
+|---|---|---| ---|
 
-- [PCA](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/AFS_PCA)
+# NLP
 
-- [Naive Bayes](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/AFS_NaiveBayes)
+| Title | Source | Category/ Tag | Description |
+|---|---|---| ---|
 
-- [SVM](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/AFS_SVM)
+# Generative Image Model
 
+| Title | Source | Category/ Tag | Description |
+|---|---|---| ---|
 
-## Computer Vision 
+# Audio
 
-### 1. Convolutional Neural Networks 
+| Title | Source | Category/ Tag | Description |
+|---|---|---| ---|
 
-- [LeNet](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/AFS_Lenet)
+# Other
 
-- [AlexNet](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/Computer%20Vision/ConvolutionalNeuralNetworks/AFS_AlexNet) 
-
-- [ResNet](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/Computer%20Vision/ConvolutionalNeuralNetworks/AFS_ResNet)
-
-- [VGG](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/Computer%20Vision/ConvolutionalNeuralNetworks/AFS_VGG)
-
-### 2. Data Augmentation
-
-### 3. Image Classification
-
-### 4. Object Detection
-
-### 5. Few-Shot Learning
-
-### 6. One-Shot Learning 
-
-### 7. Object Tracking
-
-### 8. Feature Extractors 
-
-
-## Natural Language Processing
-
-### Base
-
-## Generative Model 
-
-### GAN 
-
-- [GAN](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/GenerativeModel/GAN/GAN)
-
-- [DCGAN](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/GenerativeModel/GAN/DCGAN)
-
-## Recommendation System
-
-## Audio 
-
-### [Preprocessing](https://github.com/musikalkemist/AudioSignalProcessingForML/tree/master/20-%20Extracting%20MFCCs%20with%20Python)
+| Title | Source | Category/ Tag | Description |
+|---|---|---| ---|
