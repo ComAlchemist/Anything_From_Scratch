@@ -48,7 +48,11 @@ A small repo that we want to give some value to the community about implementing
 | DeepRecurrentNeuralNetworks | [DRNN](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/DeepRecurrentNeuralNetworks.ipynb) | NLP | ---|
 | GRU | [GRU](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/GRU.ipynb) | NLP | ---|
 | LSTM | [LSTM](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/LSTM.ipynb) | NLP | ---|
+| Attention | [Attention](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/AttentionMechanism.ipynb)|||
+| Self-Attention | [Self-Attention](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/Self_Attention.ipynb)| |  |
+| Multihead Attention |  [MultiheadAttention](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/MultiHeadAttentionForTransformer) |  | [CodeEmporium]( https://www.youtube.com/watch?v=HQn1QKQYXVg&list=PLTl9hO2Oobd97qfWC40gOSU8C0iu0m2l4&index=2) |
 
+| Positional Encoding | [Positional Encoding](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/PositionalCoding.ipynb)| | [CodeEmporium](https://www.youtube.com/watch?v=ZMxVe-HK174&list=PLTl9hO2Oobd97qfWC40gOSU8C0iu0m2l4&index=3) |
 
 # Generative Image Model
 
@@ -57,8 +61,6 @@ A small repo that we want to give some value to the community about implementing
 | GAN | [GAN](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/GenerativeModel/GAN/GAN) | GM | ---|
 | DCGAN | [DCGAN](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/GenerativeModel/GAN/DCGAN) | GM | ---|
 | Diffusion | [Diffusion](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/GenerativeModel/Diffusions/Diffusion%20Model.ipynb) | GM | ---|
-
-
 
 # Audio
 
