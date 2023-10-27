@@ -52,7 +52,9 @@ A small repo that we want to give some value to the community about implementing
 | Self-Attention | [Self-Attention](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/Self_Attention.ipynb)| |  |
 | Multihead Attention |  [MultiheadAttention](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/MultiHeadAttentionForTransformer) |  | [CodeEmporium]( https://www.youtube.com/watch?v=HQn1QKQYXVg&list=PLTl9hO2Oobd97qfWC40gOSU8C0iu0m2l4&index=2) |
 | Positional Encoding | [Positional Encoding](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/PositionalCoding.ipynb)| | [CodeEmporium](https://www.youtube.com/watch?v=ZMxVe-HK174&list=PLTl9hO2Oobd97qfWC40gOSU8C0iu0m2l4&index=3) |
-| Transformers | [Transformers](ttps://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/transformer_from_scratch.py) |  | [Aladdin Persson](https://www.youtube.com/@AladdinPersson)  |
+| Transformers | [Transformers](ttps://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/transformer_from_scratch.py) |  | [Aladdin Persson](https://www.youtube.com/@AladdinPersson)|
+| BERT From Scratch | [BERT] | | |
+| QnA with BERT | [QnABert] | | |
 
 # Generative Image Model
 
