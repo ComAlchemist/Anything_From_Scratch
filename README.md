@@ -41,8 +41,8 @@ A small repo that we want to give some value to the community about implementing
 
 # NLP
 
-| Title | Source | Category/ Tag | Description |
-|---|---|---| ---|
+| Title | Source | Category/ Tag | Description | Slide | Video |
+|---|---|---| ---|---|---|
 | Dense Vectors |  [Dense Vectors](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/DenseVectors.ipynb) | NLP | ---|
 | Words2Vec | [Words2Vec](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/Word2Vec.ipynb) | NLP | |
 | DeepRecurrentNeuralNetworks | [DRNN](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/DeepRecurrentNeuralNetworks.ipynb) | NLP | ---|
@@ -52,7 +52,7 @@ A small repo that we want to give some value to the community about implementing
 | Self-Attention | [Self-Attention](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/Self_Attention.ipynb)| |  |
 | Multihead Attention |  [MultiheadAttention](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/MultiHeadAttentionForTransformer) |  | [CodeEmporium]( https://www.youtube.com/watch?v=HQn1QKQYXVg&list=PLTl9hO2Oobd97qfWC40gOSU8C0iu0m2l4&index=2) |
 | Positional Encoding | [Positional Encoding](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/PositionalCoding.ipynb)| | [CodeEmporium](https://www.youtube.com/watch?v=ZMxVe-HK174&list=PLTl9hO2Oobd97qfWC40gOSU8C0iu0m2l4&index=3) |
-| Transformers | [Transformers](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/transformer_from_scratch.py) |  | [Aladdin Persson](https://www.youtube.com/@AladdinPersson)|
+| Transformers | [Transformers](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/transformer_from_scratch.py) |  | [Aladdin Persson](https://www.youtube.com/@AladdinPersson)| [Transformers_Slide](Slide\Transformer_Slide.pdf) | |
 | BERT From Scratch | [BERT](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/BertFromCratch.ipynb) | | [ComAlchemist](https://youtu.be/lXZcHwCLNCk) |
 | QnA with BERT | [QnABert](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/Question_AnsweringusingBert.ipynb) | | |
 
