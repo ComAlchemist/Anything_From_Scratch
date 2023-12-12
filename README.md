@@ -42,12 +42,12 @@ A small repo that we want to give some value to the community about implementing
 # NLP
 
 | Title | Source | Category/ Tag | Description | Slide | 
-|---|---|---| ---|---|---|
-| Dense Vectors |  [Dense Vectors](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/DenseVectors.ipynb) | NLP | ---|
+|---|---|---| ---|---|
+| Dense Vectors |  [Dense Vectors](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/DenseVectors.ipynb) | NLP | |
 | Words2Vec | [Words2Vec](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/Word2Vec.ipynb) | NLP | |
-| DeepRecurrentNeuralNetworks | [DRNN](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/DeepRecurrentNeuralNetworks.ipynb) | NLP | ---|
-| GRU | [GRU](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/GRU.ipynb) | NLP | ---|
-| LSTM | [LSTM](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/LSTM.ipynb) | NLP | ---|
+| DeepRecurrentNeuralNetworks | [DRNN](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/DeepRecurrentNeuralNetworks.ipynb) | NLP | |
+| GRU | [GRU](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/GRU.ipynb) | NLP | |
+| LSTM | [LSTM](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/LSTM.ipynb) | NLP | |
 | Attention | [Attention](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/AttentionMechanism.ipynb)|||
 | Self-Attention | [Self-Attention](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/Self_Attention.ipynb)| |  |
 | Multihead Attention |  [MultiheadAttention](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/MultiHeadAttentionForTransformer) |  |  |
