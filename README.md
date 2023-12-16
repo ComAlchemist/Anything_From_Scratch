@@ -53,8 +53,11 @@ A small repo that we want to give some value to the community about implementing
 | Multihead Attention |  [MultiheadAttention](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/MultiHeadAttentionForTransformer) |  |  |
 | Positional Encoding | [Positional Encoding](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/PositionalCoding.ipynb)|  |
 | Transformers | [Transformers](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/transformer_from_scratch.py) |  |  | |
-| BERT From Scratch | [BERT](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/BertFromCratch.ipynb) | |  |
+| BERT | [BERT](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/BertFromCratch.ipynb) | | | [BERT](Slide\BERT_Slide.pdf)  |
 | QnA with BERT | [QnABert](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/Question_AnsweringusingBert.ipynb) | | |
+| GPT v1 | ||| [GPTv1](Slide\GPT1_Slide.pdf) |
+| GPT v2 | ||| [GPTv2](Slide\GPT-2_3_Slide.pdf) |
+| GPT v3 | ||| [GPTv2](Slide\GPT-2_3_Slide.pdf) |
 
 # Generative Image Model
 
