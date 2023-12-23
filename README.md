@@ -58,6 +58,10 @@ A small repo that we want to give some value to the community about implementing
 | GPT v1 | ||| [GPTv1](Slide\GPT1_Slide.pdf) |
 | GPT v2 | ||| [GPTv2](Slide\GPT-2_3_Slide.pdf) |
 | GPT v3 | ||| [GPTv2](Slide\GPT-2_3_Slide.pdf) |
+| DistillBERT | | | | [DistillBERT](Slide\DistilBERT_Slide.pdf) |
+| T5 | | | | [T5](Slide\T5_Slide.pdf) |
+
+
 
 # Generative Image Model
 
