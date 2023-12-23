@@ -59,7 +59,7 @@ A small repo that we want to give some value to the community about implementing
 | GPT v2 | ||| [GPTv2](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/Slide/GPT-2_3_Slide.pdf) |
 | GPT v3 | ||| [GPTv2](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/Slide/GPT-2_3_Slide.pdf) |
 | DistillBERT | | | | [DistillBERT](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/Slide/DistilBERT_Slide.pdf) |
-| T5 | | | | [T5](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/Slide/T5_Slide.pdf) 
+| T5 | | | | [T5](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/Slide/T5_Slide.pdf)|
 | LoRA | | | | [LoRA](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/Slide/LoRA_Slide.pdf)|
 
 
