@@ -55,11 +55,12 @@ A small repo that we want to give some value to the community about implementing
 | Transformers | [Transformers](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/transformer_from_scratch.py) |  |  | [Transformer](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/Slide/Transformer_Slide.pdf) |
 | BERT | [BERT](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/BertFromCratch.ipynb) | | | [BERT]([Slide\BERT_Slide.pdf](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/Slide/BERT_Slide.pdf))  |
 | QnA with BERT | [QnABert](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/Question_AnsweringusingBert.ipynb) | | |
-| GPT v1 | ||| [GPTv1]([Slide\GPT1_Slide.pdf](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/Slide/GPT1_Slide.pdf)) |
-| GPT v2 | ||| [GPTv2]([Slide\GPT-2_3_Slide.pdf](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/Slide/GPT-2_3_Slide.pdf)) |
-| GPT v3 | ||| [GPTv2]([Slide\GPT-2_3_Slide.pdf](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/Slide/GPT-2_3_Slide.pdf)) |
-| DistillBERT | | | | [DistillBERT]([Slide\DistilBERT_Slide.pdf](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/Slide/DistilBERT_Slide.pdf)) |
-| T5 | | | | [T5]([Slide\T5_Slide.pdf](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/Slide/T5_Slide.pdf)) | LoRA | | | | [LoRA](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/Slide/LoRA_Slide.pdf)|
+| GPT v1 | ||| [GPTv1](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/Slide/GPT1_Slide.pdf) |
+| GPT v2 | ||| [GPTv2](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/Slide/GPT-2_3_Slide.pdf) |
+| GPT v3 | ||| [GPTv2](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/Slide/GPT-2_3_Slide.pdf) |
+| DistillBERT | | | | [DistillBERT]((https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/Slide/DistilBERT_Slide.pdf) |
+| T5 | | | | [T5](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/Slide/T5_Slide.pdf) 
+| LoRA | | | | [LoRA](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/Slide/LoRA_Slide.pdf)|
 
 
 
