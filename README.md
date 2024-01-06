@@ -2,6 +2,10 @@
 
 A small repo that we want to give some value to the community about implementing artificial intelligence algorithms, as well as training our ability to code and understand algorithms better.
 
+### Update 
+
+With some models I research (I will note the star next to the model name), there will be small changes in the file layout. An algorithm that I learn will have a small readme.md section and more code to try more problems.
+
 ## Contents
 
 - [Machine Learning](#machine-learning)
