@@ -65,6 +65,7 @@ With some models I research (I will note the star next to the model name), there
 | DistillBERT | | | | [DistillBERT](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/Slide/DistilBERT_Slide.pdf) |
 | T5 | | | | [T5](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/Slide/T5_Slide.pdf)|
 | LoRA | | | | [LoRA](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/Slide/LoRA_Slide.pdf)|
+| BLIP-2* | [BLIP-2](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/NLP/BLIP-2) | LVLMs(Vision-language) | A appoach to connect Vision and LLMs together. Demo on Image Captioning and Chatbot | |
 
 
 
