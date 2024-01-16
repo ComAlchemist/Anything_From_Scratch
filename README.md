@@ -66,8 +66,7 @@ With some models I research (I will note the star next to the model name), there
 | T5 | | | | [T5](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/Slide/T5_Slide.pdf)|
 | LoRA | | | | [LoRA](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/Slide/LoRA_Slide.pdf)|
 | BLIP-2* | [BLIP-2](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/NLP/BLIP-2) | LVLMs(Vision-language) | A appoach to connect Vision and LLMs together. Demo on Image Captioning and Chatbot | |
-| QLoRA* | | | | [QLoRA](./Slide/QLoRA.pdf)|
-
+| QLoRA* | [QLoRA](./NLP/QLoRA/)| Optimization in Memory | A approach to optimise for LLMs. Demo in random model. | [QLoRA](./Slide/QLoRA.pdf)|
 
 
 # Generative Image Model
