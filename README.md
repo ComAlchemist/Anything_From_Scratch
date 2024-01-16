@@ -67,6 +67,7 @@ With some models I research (I will note the star next to the model name), there
 | LoRA | | | | [LoRA](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/Slide/LoRA_Slide.pdf)|
 | BLIP-2* | [BLIP-2](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/NLP/BLIP-2) | LVLMs(Vision-language) | A appoach to connect Vision and LLMs together. Demo on Image Captioning and Chatbot | |
 | QLoRA* | [QLoRA](./NLP/QLoRA/)| Optimization in Memory | A approach to optimise for LLMs. Demo in random model. | [QLoRA](./Slide/QLoRA.pdf)|
+| TaPas* | [TaPas](./NLP/TaPas/) | Question and Answer| TaPas use BERT model as a base for QnA task with table datastructure. | [TaPas](./Slide/Tapas.pdf)|
 
 
 # Generative Image Model
