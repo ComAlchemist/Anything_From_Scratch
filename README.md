@@ -69,6 +69,10 @@ With some models I research (I will note the star next to the model name), there
 | QLoRA* | [QLoRA](./NLP/QLoRA/)| Optimization in Memory | A approach to optimise for LLMs. Demo in random model. | [QLoRA](./Slide/QLoRA.pdf)|
 | TaPas* | [TaPas](./NLP/TaPas/) | Question and Answer| TaPas use BERT model as a base for QnA task with table datastructure. | [TaPas](./Slide/Tapas.pdf)|
 
+# VLMs 
+| Title | Source | Category/ Tag | Description |Slide | 
+|---|---|---| ---|---|
+| MolMo (Multimodel Open Languale Model) | Tự tìm trong folder trước ạ.  | | | |
 
 # Generative Image Model
 
